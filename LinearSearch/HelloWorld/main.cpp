@@ -3,7 +3,11 @@
 
 using namespace std;
 
-
+bool WoodTest()
+{
+	
+}
+	
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
 	// leader advice
