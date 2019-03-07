@@ -6,7 +6,7 @@ using namespace std;
 
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
-	//wood test
+	// leader advice
     if(a == b)
     {
         return false;
