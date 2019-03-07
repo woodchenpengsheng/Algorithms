@@ -7,6 +7,11 @@ bool WoodTest()
 {
 	
 }
+
+bool PeterTest()
+{
+	printf("Hello Peter is coming back");
+}
 	
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
