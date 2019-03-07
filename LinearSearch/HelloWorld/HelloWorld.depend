@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551877272 source:c:\code\algorithm\testspace\helloworld\main.cpp
+	<iostream>
+	<limits.h>
+
