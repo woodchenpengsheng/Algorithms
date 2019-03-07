@@ -3,24 +3,6 @@
 
 using namespace std;
 
-bool WoodTest()
-{
-	
-}
-	
-bool WoodTest3()
-{
-	
-}
-
-bool WoodTest4()
-{
-}
-
-bool WoodTest5()
-{
-}
-
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
 	// leader advice
