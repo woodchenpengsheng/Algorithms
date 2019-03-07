@@ -6,7 +6,7 @@ using namespace std;
 
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
-	//peter test
+	// peter做了修改2
     if(a == b)
     {
         return false;
