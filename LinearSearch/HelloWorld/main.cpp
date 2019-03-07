@@ -21,6 +21,11 @@ bool WoodTest5()
 {
 }
 
+bool WoodTest6()
+{
+	
+}
+
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
 	// leader advice
