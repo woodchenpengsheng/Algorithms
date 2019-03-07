@@ -2,7 +2,7 @@
 #include<limits.h>
 
 using namespace std;
-
+1
 bool GetMinCommonMultiple(int a, int b, int* common, int* multiple)
 {
 	// leader advice
